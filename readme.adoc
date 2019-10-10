@@ -4,6 +4,7 @@
 
 I would like to create a mobile application for the church of Jesus Christ. The app would help members learn a bit more about the church, it history, clergy members, etc.
 Included would also be the schedule of meetings and links to the church's website. The app would include the ability to view photos, listen to recorded sermons and songs, and contact clergy.
+
 == Section 2 - Meeting Minimum Requirements
 
 In this section, describe using sentences and paragraphs written in English, the screens included in your app’s user interface. Include in this text portion the required diagrams (see below, 2.1 User Interface, Item #5). Describe how your app will not lose any user’s input data when switching between configurations and also among the various screens supported by your app. Items #2 and #4 (below) indicate that exceptions can be made, if you are electing to exercise one or both of these exception, then here is where you must make a compelling argument for the exception.
