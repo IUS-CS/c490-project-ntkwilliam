@@ -1,13 +1,9 @@
 = CSCI C490 Design Document Requirements
 
-You will create a document to describe the particular Android project you wish to complete for this course.
-
-. Create a new Markdown or Asciidoctor document to replace this readme document.
-. Format your document with proper headings, sections, paragraphs, etc.
-. Your document should include descriptions of the rest of this document in copmelete and professional prose.
-
 == Section 1 – Motivation for Your App
 
+I would like to create a mobile application for the church of Jesus Christ. The app would help members learn a bit more about the church, it history, clergy members, etc.
+Included would also be the schedule of meetings and links to the church's website. The app would include the ability to view photos, listen to recorded sermons and songs, and contact clergy.
 In this section, describe the motivation behind your choice of app to design and implement. Also indicate who is the target user base. Include references to existing apps that are similar to the app you are proposing – references must include the name of the app, the platform (e.g., iOS, Android, Windows, MacOS, etc.), and a link to a website describing the app.
 
 == Section 2 - Meeting Minimum Requirements
